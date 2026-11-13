@@ -1,16 +1,34 @@
-## Hi there, My name is José Luis 👋
+## Hi, I'm José Luis Castañeda Ascencio 👋
 
-<!--
-**Cass9510/Cass9510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student at the Virtual University of the State of Guanajuato (UVEG), currently working as a Software Automation Intern at Bosch.
 
-Here are some ideas to get you started:
+I have professional experience developing Python applications, automating business processes, engineering data workflows, and building software solutions for industrial environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software engineering, problem-solving, and continuously expanding my technical skills.
+
+Technical Skills
+Programming Languages: Python, Java, C/C++ (academic fundamentals).
+Software Development: Object-Oriented Programming, REST APIs, application development.
+Python Ecosystem: pandas, openpyxl, Workalendar, FastAPI.
+Cloud & Integration: Microsoft Azure, Microsoft Graph API, SharePoint.
+Data & Analytics: Data Engineering, Data Analysis, Power BI.
+Version Control: Git, GitHub, GitLab.
+Professional Interests
+Embedded Software Development
+C/C++ Programming
+Embedded Linux
+Software Architecture
+Audio Processing and Digital Signal Processing
+Cloud-based Software Solutions
+Current Learning Goals
+Strengthening C++ programming and Object-Oriented Programming.
+Exploring embedded systems and Linux-based development.
+Learning audio processing and digital signal processing fundamentals.
+Improving software design, testing, and debugging practices.
+Featured Projects
+
+Selected projects and personal experiments will be showcased here as they become available.
+
+Connect With Me
+LinkedIn: José Luis Castañeda
+Email: castanedaascencio.jluis@gmail.com
